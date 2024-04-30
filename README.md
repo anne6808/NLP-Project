@@ -1,6 +1,4 @@
 # NLP-Project
-Shared github for the 3832 Final Project 
-
 FOR TRAINING DISTILBERT:
 
 In the Drive linked at the bottom there is a zipped file called content. It has to be extracted and be in distilBERT training directory. After it has been unzipped and is in the distilBERT folder, remove the zip file. Inside the distilBERT folder is the python notebook for training distilbert.
