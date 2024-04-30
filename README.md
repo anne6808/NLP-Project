@@ -1,6 +1,6 @@
 # NLP-Project
 
-CONTRIBUTIONS:
+CONTRIBUTIONS: \
 Caleb:  Worked on the distilBERT model. This included getting the baseline and making sure that new datasets can be trained on the model. This code can be found in the distilBERT folder 
 
 Ananya: Worked on the T5-Model. This included getting the baseline and making sure that new datasets can be trained on the model. Along with this, created the code to generate the first half dataset. This code can be found in the T5 Colab notebook 
