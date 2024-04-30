@@ -1,4 +1,12 @@
 # NLP-Project
+
+CONTRIBUTIONS:
+Caleb:  Worked on the distilBERT model. This included getting the baseline and making sure that new datasets can be trained on the model. This code can be found in the distilBERT folder\
+Ananya: Worked on the T5-Model. This included getting the baseline and making sure that new datasets can be trained on the model. Along with this, created the code to generate the first half dataset. This code can be found in the T5 Colab notebook\
+Luke:  \
+Brennan:  \
+Lukas: \
+
 FOR TRAINING DISTILBERT:
 
 In the Drive linked at the bottom there is a zipped file called content. It has to be extracted and be in distilBERT training directory. After it has been unzipped and is in the distilBERT folder, remove the zip file. Inside the distilBERT folder is the python notebook for training distilbert.
