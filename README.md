@@ -1,11 +1,15 @@
 # NLP-Project
 
 CONTRIBUTIONS:
-Caleb:  Worked on the distilBERT model. This included getting the baseline and making sure that new datasets can be trained on the model. This code can be found in the distilBERT folder\
-Ananya: Worked on the T5-Model. This included getting the baseline and making sure that new datasets can be trained on the model. Along with this, created the code to generate the first half dataset. This code can be found in the T5 Colab notebook \
-Luke: Helped in getting the enviornments set up for the T5 model and testing with a potential google cloud bucket that could have been used to create better efficiency for training. \
-Brennan: Helped in getting the enviornments set up for the T5 model and testing with a potential google cloud bucket that could have been used to create better efficiency for training. \
-Lukas: Created the synonym replacement, entity swapped, and prompting datasets. The code for the synonym and prompting can be found in the T5-small Colab notebook.
+Caleb:  Worked on the distilBERT model. This included getting the baseline and making sure that new datasets can be trained on the model. This code can be found in the distilBERT folder 
+
+Ananya: Worked on the T5-Model. This included getting the baseline and making sure that new datasets can be trained on the model. Along with this, created the code to generate the first half dataset. This code can be found in the T5 Colab notebook 
+
+Luke: Helped in getting the enviornments set up for the T5 model and testing with a potential google cloud bucket that could have been used to create better efficiency for training. 
+
+Brennan: Helped in getting the enviornments set up for the T5 model and testing with a potential google cloud bucket that could have been used to create better efficiency for training. 
+
+Lukas: Created the synonym replacement, entity swapped, and prompting datasets. The code for the synonym and prompting can be found in the T5 Colab notebook.
 
 FOR TRAINING DISTILBERT:
 
