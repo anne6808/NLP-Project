@@ -17,7 +17,7 @@ In the Drive linked at the bottom there is a zipped file called content. It has 
 
 FOR TRAINING T5-SMALL:
 
-In the Drive linked at the bottom there are two datasets that need to be downloaded and uploaded to the content page on COLAB. These are the train-v2.0.json and modified_squad_data.json. Once the datasets are uploaded, run all cells.
+In the Drive linked at the bottom there are two datasets that need to be downloaded and uploaded to the content page on COLAB. These are the train-v2.0.json and modified_squad_data.json. Once the datasets are uploaded, run all cells. We used Colab for the T5 model, it is recommended to run this on Colab.
 
 DISTILBET F1 SCORES: \
 Baseline: 81.33 \
