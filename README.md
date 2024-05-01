@@ -9,7 +9,7 @@ Luke: Created the synonym replacemant dataset. Also experimented with other word
 
 Brennan: Helped in getting the enviornments set up for the T5 model and testing with a potential google cloud bucket that could have been used to create better efficiency for training. 
 
-Lukas: Created the entity swapped and prompting datasets. The code for the prompting can be found in the T5 Colab notebook.
+Lukas: Created the entity swapped and prompting datasets. Also experimented with other potential dataset alterations. The code for the prompting can be found in the T5 Colab notebook.
 
 FOR TRAINING DISTILBERT:
 
